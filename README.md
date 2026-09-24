@@ -2,7 +2,13 @@
 
 ## Project Overview
 Developed an interactive Power BI dashboard to analyze manufacturing operations for Aeronex Precision Components Pvt. Ltd.
+![Manufacturing Dashboard](./Manufacture%20dashboard.png)
 
+![Production Dashboard](./Production.png)
+
+![Quality Dashboard](./Quality.png)
+
+![Downtime Dashboard](./DownTime.png)
 ## Objective
 The dashboard helps management monitor:
 
